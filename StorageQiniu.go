@@ -11,8 +11,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/qiniu/api.v7/auth/qbox"
-	"github.com/qiniu/api.v7/storage"
+	"github.com/qiniu/api.v7/v7/auth/qbox"
+	"github.com/qiniu/api.v7/v7/storage"
 )
 
 type StorageQiniu struct {
