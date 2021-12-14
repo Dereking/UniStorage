@@ -1,4 +1,4 @@
-module UniStorage
+module github.com/dereking/UniStorage
 
 go 1.16
 
