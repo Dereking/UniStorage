@@ -8,7 +8,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dereking/utils/StrUtil"
+	"github.com/Dereking/utils/StrUtil"
 )
 
 type StorageFile struct {
