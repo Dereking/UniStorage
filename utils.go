@@ -2,7 +2,7 @@ package UniStorage
 
 import (
 	"fmt"
-	"github.com/dereking/utils/StrUtil"
+	"github.com/Dereking/utils/StrUtil"
 	"os"
 )
 
